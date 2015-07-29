@@ -8,7 +8,7 @@ package adtht3;
 
 /**
  *
- * @author Tiago
+ * @author Tiago Hola
  */
 public class ADTHT3 {
 
